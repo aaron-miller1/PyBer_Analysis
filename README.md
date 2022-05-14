@@ -11,5 +11,6 @@ The results show that Urban rides are the clear top followed by Suburban and Rur
 ![image](https://user-images.githubusercontent.com/102704559/168444707-134e1e9d-8960-430c-872d-d92bbf4c0e83.png)
 
 When looking at the weekly fare per city type from Jan 1, 2019 until Apr 29, 2019, we can see that the density of the city plays a huge part in the total fares. Even though Urban average costs per ride are much lower than that of Rural and Suburban. 
-PyBer_Challenge_Fig.png
+
+![image](https://user-images.githubusercontent.com/102704559/168445005-9e423e08-04f2-4209-89e7-49eb2f6b8816.png)
 ### Summary
